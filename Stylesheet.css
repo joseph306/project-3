@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 @font-face{
     font-family: pokemonStyle;
     src: url("Pokemon GB.ttf") format("ttf"),
