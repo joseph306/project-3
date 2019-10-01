@@ -4,3 +4,6 @@
         url("Pokemon GB.woff") format("woff"),
         url("Pokemon GB.woff2") format("woff2");
 }
+html{
+    font-family: pokemonStyle, sans-serif;
+}
