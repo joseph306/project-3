@@ -9,20 +9,3 @@ nav.sidebar{
 }
 
 /* color of site */
-header{
-    background-color: rgb(228, 64, 33);
-    display: block;
-    float: left;
-}
-h1{
-    background-color: black;
-    color: white;
-    display: block;
-    float: left;
-}
-ul{
-    background-color: rgb(238, 240, 249);
-    /*color: */
-    display: block;
-    float: left;
-}
