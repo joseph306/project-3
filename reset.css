@@ -3,8 +3,8 @@
 article, aside, figcaption, figure,
 footer, header, main, nav, section{
    display: block;
-
 }
+
 address, article, aside, blockquote,
 body, cite, div, dl, dt, dd, em, 
 figcaption, figure, footer, h1 , h2 , h3,
@@ -19,6 +19,7 @@ main, nav, ol, p, section, span, ul{
    -moz-box-sizing: border-box;
    box-sizing: border-box; 
 }
+
 nav ul {
    list-style:none;
    list-style-image:none;
@@ -27,6 +28,7 @@ nav ul {
 nav a {
    text-decoration:none;
 }
+
 body{
    line-height:1;
 }
