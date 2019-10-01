@@ -7,3 +7,12 @@
 html{
     font-family: pokemonStyle, sans-serif;
 }
+@font-face{
+    font-family: Guardian;
+    src: url("Guardian.ttf") format("ttf"),
+        url("Guardian.woff") format("woff"),
+        url("Guardian.woff2") format("woff2");
+}
+html{
+    font-family:Guardian,sans-serif
+}
