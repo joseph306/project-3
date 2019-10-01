@@ -1,13 +1,13 @@
 @charset "utf-8";
 
 @font-face{
-    font-family: pokemonStyle;
-    src: url("Pokemon GB.ttf") format("ttf"),
-        url("Pokemon GB.woff") format("woff"),
-        url("Pokemon GB.woff2") format("woff2");
+    font-family: style2;
+    src: url(Pokemon_Solid.ttf) format('ttf'),
+        url(Pokemon_Solid.woff) format('woff'),
+        url(Pokemon_Solid.woff2) format('woff2');
 }
 html{
-    font-family: pokemonStyle, sans-serif;
+    font-family: style1, style2, sans-serif;
 }
 @font-face{
     font-family: Guardian;
