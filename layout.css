@@ -30,7 +30,6 @@ body{
    width:90%;
    margin-left:auto;
    margin-right:auto;
-   background-color: white;
 }
 
 nav{
@@ -82,7 +81,8 @@ figure::after{
 }
 /*aside section*/
 div.col-1-3 aside{
-   background-color: white;
+   outline: black;
+   background-color: grey;
    padding: 10px;
    float: left;
 }
